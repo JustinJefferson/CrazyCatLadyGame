@@ -8,6 +8,16 @@
 
 config_version=4
 
+_global_script_classes=[ {
+"base": "Resource",
+"class": "CatType",
+"language": "GDScript",
+"path": "res://resources/catType/CatType.gd"
+} ]
+_global_script_class_icons={
+"CatType": ""
+}
+
 [application]
 
 config/name="CrazyCatLadyGame"
